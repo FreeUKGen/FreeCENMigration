@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/freeukgen/freecenmigration.png?label=ready&title=Ready)](https://waffle.io/freeukgen/freecenmigration)
 FreeCENMigration
 ================
-FreeCEN uses a branched version taken from FreeREG MyopicVicar), therefore you can clone the relevant repository from there. Just like FreeREG (MyopicVicar), FreeCEN is an open-source genealogical record database and search engine.  It is the 
+FreeCEN uses a branched version of FreeREG (MyopicVicar), therefore you can clone the relevant repository from there. Just like FreeREG (MyopicVicar), FreeCEN is an open-source genealogical record database and search engine.  It is the 
 software that powers the [FreeREG](https://www.freereg.org.uk) database of parish register 
 entries and the [FreeCEN](https://freecen2.freecen.org.uk) database of UK census records.
 
