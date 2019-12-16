@@ -13,6 +13,8 @@ Ensure you let us know what idea you might like to help develop, or indeed if yo
 
 If you are interested in Google’s Summer of Code, please read and apply here: https://summerofcode.withgoogle.com/get-started/.
 
+Next, you will need to sign the CLA Agreement, <a href="https://www.clahub.com/agreements/FreeUKGen/FreeCENMigration">sign the Contributor License Agreement</a>.
+
 ## Our Code of Conduct
 
 Free UK Genealogy, including its software development team, operates 
@@ -38,8 +40,6 @@ prioritized using Waffle.io, which provides a kanban-style interface.
 
 * The [FreeREG Waffle Board](https://waffle.io/freeukgen/myopicvicar)
 * The [FreeCEN Waffle Board](https://waffle.io/freeukgen/freecenmigration)
-
-
 
 ## How We Communicate
 
